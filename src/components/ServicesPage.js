@@ -15,7 +15,7 @@ const ServicesPage = () => {
   const carouselItems = [
     {
       image: 'https://lucymunozphotography.com/wp-content/uploads/2019/02/Lucy-Munoz-Photography-28-1.jpg',
-      text: ' Unveil Your Dream Wedding Venue Destination',
+      text: ' Unveil  Your Dream Wedding Venue Destination',
     },
     {
       image: 'https://salsaritas.com/wp-content/uploads/2018/05/WeddingCatering2020-9770-1024x683.jpg',
